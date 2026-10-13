@@ -1,6 +1,8 @@
 # Wazuh-SIEM-Lab
 A practical cybersecurity engineering homelab simulating an enterprise Local Area Network (LAN) monitored by a centralized **Wazuh SIEM** platform. This project demonstrates full-cycle defensive operations: virtual infrastructure provisioning, network bridging, multi-platform agent enrollment, real-time log analysis, and automated threat mitigation via custom **Active Response** rules.
 
+*Author: Facundo Maidana*
+
 ## Architecture and Topology
 
 The lab simulates an enterprise network where all endpoints and the centralized SIEM manager reside on the same LAN subnet via physical **Ethernet Bridging**, allowing unrestricted bi-directional communication, telemetry ingestion, and active containment.
